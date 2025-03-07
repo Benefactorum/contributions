@@ -1,0 +1,10 @@
+{
+  "name": "test3",
+  "tax_reduction": "intérêt_général",
+  "osbls_causes_attributes": [
+    {
+      "cause_id": "3",
+      "name": "Santé"
+    }
+  ]
+}
