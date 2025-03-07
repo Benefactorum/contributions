@@ -1,0 +1,10 @@
+{
+  "name": "Test OSBL 2",
+  "description": "This is a test OSBL",
+  "tax_reduction": "intérêt_général",
+  "osbls_causes_attributes": [
+    {
+      "cause_id": 1
+    }
+  ]
+}
