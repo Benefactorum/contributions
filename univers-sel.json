@@ -1,0 +1,174 @@
+{
+  "name": "UNIVERS-SEL",
+  "website": "https://universsel.org/",
+  "logo": {
+    "filename": "cropped-logoUNS_HD-1-270x270.png",
+    "key": "5zujvd2tqlrx2gfpdk9oz2hfhtm3",
+    "url": "http://localhost:3000/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjEsInB1ciI6ImJsb2JfaWQifX0=--f696f06099525ff2ac21adae48dd6c8a00725a46/cropped-logoUNS_HD-1-270x270.png"
+  },
+  "description": "UNIVERS-SEL réalise des missions d’expertise à l’international pour apporter des solutions sur des problématiques liées à la production de sel et à la biodiversité.",
+  "tax_reduction": "intérêt_général",
+  "geographical_scale": "international",
+  "osbl_type": "association",
+  "public_utility": false,
+  "creation_year": 1989,
+  "osbls_causes_attributes": [
+    {
+      "cause_id": "5",
+      "name": "Éducation"
+    },
+    {
+      "cause_id": "4",
+      "name": "Lutte contre la précarité"
+    },
+    {
+      "cause_id": "9",
+      "name": "Aide internationale"
+    },
+    {
+      "cause_id": "1",
+      "name": "Environnement"
+    },
+    {
+      "cause_id": "3",
+      "name": "Santé"
+    }
+  ],
+  "osbls_keywords_attributes": [
+    {
+      "keyword_id": 320,
+      "name": "Éducation à la Citoyenneté"
+    },
+    {
+      "keyword_id": 321,
+      "name": "Solidarité Internationale"
+    },
+    {
+      "keyword_id": 322,
+      "name": "Développement durable"
+    },
+    {
+      "keyword_id": 58,
+      "name": "Sensibilisation"
+    },
+    {
+      "keyword_id": 323,
+      "name": "Engagement des jeunes"
+    },
+    {
+      "keyword_id": 324,
+      "name": "Production de sel"
+    },
+    {
+      "keyword_id": 325,
+      "name": "Soutien aux producteurs"
+    },
+    {
+      "keyword_id": 326,
+      "name": "Gestion durable"
+    },
+    {
+      "keyword_id": 327,
+      "name": "Expertise en Afrique de l'Ouest"
+    },
+    {
+      "keyword_id": 328,
+      "name": "Patrimoine artisanal"
+    },
+    {
+      "keyword_id": 329,
+      "name": "partage"
+    },
+    {
+      "keyword_id": 157,
+      "name": "solidarité"
+    },
+    {
+      "keyword_id": 330,
+      "name": "impact positif"
+    },
+    {
+      "keyword_id": 331,
+      "name": "donations"
+    },
+    {
+      "keyword_id": 191,
+      "name": "soutien"
+    },
+    {
+      "keyword_id": 332,
+      "name": "projets sociaux"
+    },
+    {
+      "keyword_id": 333,
+      "name": "valeurs communes"
+    },
+    {
+      "keyword_id": 296,
+      "name": "engagement"
+    }
+  ],
+  "osbls_intervention_areas_attributes": [
+    {
+      "intervention_area_id": 64,
+      "name": "France"
+    },
+    {
+      "intervention_area_id": 425,
+      "name": "Guérande"
+    },
+    {
+      "intervention_area_id": 21,
+      "name": "Bénin"
+    },
+    {
+      "intervention_area_id": 72,
+      "name": "Guinée"
+    },
+    {
+      "intervention_area_id": 160,
+      "name": "Sénégal"
+    },
+    {
+      "intervention_area_id": 73,
+      "name": "Guinée-Bissau"
+    }
+  ],
+  "annual_finances_attributes": [
+    {
+      "year": 2021,
+      "certified": false,
+      "fund_sources_attributes": [
+        {
+          "type": "Dons",
+          "percent": 100,
+          "amount": 50000
+        }
+      ],
+      "fund_allocations_attributes": [
+        {
+          "type": "Missions sociales",
+          "percent": 80,
+          "amount": 40000
+        },
+        {
+          "type": "Frais de fonctionnement",
+          "percent": 20,
+          "amount": 10000
+        }
+      ]
+    }
+  ],
+  "locations_attributes": [
+    {
+      "type": "Siège social",
+      "address_attributes": {
+        "street_name": "guérande",
+        "postal_code": "44430",
+        "city": "Le Loroux-Bottereau",
+        "latitude": 47.210825,
+        "longitude": -1.363405
+      }
+    }
+  ]
+}
