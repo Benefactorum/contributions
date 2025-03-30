@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "tax_reduction": "aide_aux_personnes_en_difficulté",
+  "osbls_causes_attributes": {
+    "0": {
+      "cause_id": "5",
+      "name": "Éducation"
+    }
+  }
+}
