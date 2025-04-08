@@ -1,0 +1,16 @@
+{
+  "name": "test full creation with PR",
+  "website": "https://benefactorum.org/",
+  "logo": {
+    "filename": "Benefactorum-Logo.png",
+    "key": "ngypb26gz9hnp8o8qgmzmd3cqv0y",
+    "url": "http://localhost:3000/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQsInB1ciI6ImJsb2JfaWQifX0=--eee93a5f685a70ed62dde69281f76d37c9f1afc3/Benefactorum-Logo.png"
+  },
+  "tax_reduction": "intérêt_général",
+  "osbls_causes_attributes": {
+    "0": {
+      "cause_id": "13",
+      "name": "Autre"
+    }
+  }
+}
